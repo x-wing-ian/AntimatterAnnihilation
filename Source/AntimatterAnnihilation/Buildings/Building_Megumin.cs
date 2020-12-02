@@ -29,7 +29,7 @@ namespace AntimatterAnnihilation.Buildings
         public static int EXPLOSION_DAMAGE = 50;
         public static float EXPLOSION_PEN = 0.7f;
         public static float CHARGE_WATT_DAYS = 600 * 5; // Requires 5 fully-powered batteries to charge (semi-instantly). Otherwise it will take longer depending on power production.
-        public static int WORLD_MAP_RANGE = 130;
+        public static int WORLD_MAP_RANGE = 13000;
 
         public bool ShouldBeGlowingNow
         {
